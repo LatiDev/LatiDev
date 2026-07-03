@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppoGit-Hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![LatiDev's GitHub stats](https://github-stats-extended.vercel.app/api?username=LatiDev)](https://github.com/stats-organization/github-stats-extended)
